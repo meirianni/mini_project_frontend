@@ -1,0 +1,13 @@
+{
+  "data": {
+    "headers": ["No", "Name Product", "Quantity", "Price", "Action"],
+    "rows": [
+      {
+        "id": 16989793762.46982,
+        "name": "Celana Panjang",
+        "quantity": "10",
+        "price": "10000"
+      }
+    ]
+  }
+}
