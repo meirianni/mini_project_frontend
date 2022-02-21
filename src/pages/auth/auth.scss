@@ -1,0 +1,36 @@
+body {
+  background-color: #9ad0ec;
+}
+.auth-pages {
+  display: flex;
+  padding: 80px 40px;
+  text-align: center;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  .text_one {
+    p {
+      font-size: 40px;
+      font-weight: 500;
+      color: #21325e;
+    }
+    span {
+      font-size: 18px;
+      color: #d1d1d1;
+      line-height: 10px;
+    }
+  }
+  .form_page {
+    .card-auth-page {
+      padding: 20px;
+    }
+  }
+}
+.row-input {
+  padding-top: 15px;
+}
+.btn-submit {
+  display: flex;
+  margin-top: 10px;
+  color: #9ad0ec;
+}
